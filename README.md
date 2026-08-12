@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zxcPandora&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
